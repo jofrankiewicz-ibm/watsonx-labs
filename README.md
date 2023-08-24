@@ -9,7 +9,5 @@ Poniższe laboratoria powinny zająć nam blisko 3 godziny.
 |-----------------|-------------------|
 | 90 mins  | Lab 1: Wprowadzenie do prompt engineeringu z wykorzystaniem watsonx.ai|  
 | 60 mins  | Lab 2: Zaawansowany Prompt Engineering   |  
-|  5 mins  | Wprowadzenie do biblioteki IBM GenAI| 
-| 60 mins  | Lab 3: [PYTHON] jak wykorzystać bibliotekę IBM GenAI do pracy z watsonx? | 
-| 30 mins  | Lab 4: [REST API] jak wykorzystać platformę watsonx przez REST API?| 
+| 60 mins  | Lab 3: [PYTHON] Prompt Patterns | 
 
